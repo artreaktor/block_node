@@ -1,0 +1,5 @@
+name: Block node
+type: module
+description: 'Provides block plugin to add/edit/view nodes.'
+package: Chaos tool suite
+core: 8.x
